@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LeafDoctor</string>
+    
+    <!-- Onboarding Screen -->
+    <string name="onboarding_title">LeafDoctor</string>
+    <string name="onboarding_description">Detecta enfermedades en tus cultivos usando inteligencia artificial de manera rápida y precisa</string>
+    <string name="onboarding_step1">Selecciona tu tipo de cultivo</string>
+    <string name="onboarding_step2">Toma una foto de la hoja afectada</string>
+    <string name="onboarding_step3">Conoce sobre la enfermedad</string>
+    <string name="onboarding_button">Comenzar análisis</string>
+    
+    <!-- Crop Selection Screen -->
+    <string name="crop_selection_title">Selecciona tu cultivo</string>
+    <string name="crop_selection_description">Elige el tipo de planta que deseas analizar</string>
+    <string name="crop_orange">Naranja</string>
+    <string name="crop_apple">Manzana</string>
+    <string name="crop_potato">Papa</string>
+    <string name="crop_tomato">Tomate</string>
+    <string name="crop_cherry">Cereza</string>
+    <string name="crop_more">Más</string>
+</resources>

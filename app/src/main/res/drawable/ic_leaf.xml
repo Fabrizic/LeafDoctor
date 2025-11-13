@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Hoja principal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,30 Q75,35 85,50 Q95,65 90,80 Q85,95 70,100 Q55,105 45,95 Q35,85 40,70 Q45,55 55,45 Q60,35 60,30 Z" />
+    
+    <!-- Nervio central -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M60,30 Q62,50 65,80" />
+</vector>
+
