@@ -1,4 +1,4 @@
-package com.example.leafdoctor.presentation.cropselection
+package com.example.leafdoctor.screens.cropselection
 
 import androidx.lifecycle.ViewModel
 import com.example.leafdoctor.R

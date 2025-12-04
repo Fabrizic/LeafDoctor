@@ -18,4 +18,26 @@
     <string name="crop_tomato">Tomate</string>
     <string name="crop_cherry">Cereza</string>
     <string name="crop_more">Más</string>
+    
+    <!-- Image Capture Screen -->
+    <string name="image_capture_description">Captura o sube una imagen de la hoja para análisis</string>
+    <string name="image_capture_title">Captura la hoja</string>
+    <string name="image_capture_instruction">Toma un foto clara de la hoja afectada</string>
+    <string name="image_capture_button_take_photo">Tomar foto</string>
+    <string name="image_capture_button_upload_image">Subir imagen</string>
+    
+    <!-- Image Preview Screen -->
+    <string name="image_preview_description">Revisa la imagen antes de analizar</string>
+    <string name="image_preview_button_analyze">Analizar imagen</string>
+    <string name="image_preview_button_retake">Seleccionar otra</string>
+    
+    <!-- Result Screen -->
+    <string name="result_detection_title">Detección:</string>
+    <string name="result_detection_message">Se detectó la presencia de %1$s en la hoja de %2$s</string>
+    <string name="result_description_title">Descripción:</string>
+    <string name="result_button_analyze_another">Analizar otra hoja</string>
+    
+    <!-- Disease Descriptions (Prototype) -->
+    <string name="disease_hlb_name">huanglongbing</string>
+    <string name="disease_hlb_description">El Huanglongbing (HLB), también conocido como enverdecimiento de los cítricos, es una grave enfermedad bacteriana que afecta a todas las plantas cítricas. Esta enfermedad, que no tiene cura, reduce drásticamente la calidad y la cantidad de la fruta, deteriora el árbol y finalmente lo mata.</string>
 </resources>

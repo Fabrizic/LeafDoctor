@@ -1,4 +1,4 @@
-package com.example.leafdoctor.presentation.onboarding
+package com.example.leafdoctor.screens.home
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
